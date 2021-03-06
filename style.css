@@ -1,0 +1,36 @@
+header {
+	font-family: Helvetica;
+	font-size: 50px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url(/img/frames.jpeg);
+}
+
+h2 {
+	font-family: "Helvetica";
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+.title-brushes {
+	background-color: mediumspringgreen;
+}
+
+.subtitle {
+	font-weight: bold;
+}
+
+.price {
+	font-family: "Helvetica";
+	font-weight: bold;
+	color: blue;
+}
+
+.title-frames {
+	background-color: lightcoral;
+}
+
+.title-paint {
+	background-color: skyblue;
+}
